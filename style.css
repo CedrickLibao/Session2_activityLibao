@@ -1,0 +1,593 @@
+.div-wrapper {
+    background-color: #14162e;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .div-wrapper .div {
+    background-color: #14162e;
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+  }
+  
+  .div-wrapper .overlap {
+    position: absolute;
+    width: 1063px;
+    height: 530px;
+    top: 291px;
+    left: 142px;
+  }
+  
+  .div-wrapper .background {
+    position: absolute;
+    width: 430px;
+    height: 492px;
+    top: 0;
+    left: 0;
+  }
+
+  
+  .div-wrapper .ellipse {
+    top: 266px;
+    left: 204px;
+    background-color: #4461f2;
+    opacity: 0.6;
+    position: fixed;
+    width: 226px;
+    height: 226px;
+    border-radius: 113px;
+    filter: blur(317px);
+  }
+  
+  .div-wrapper .ellipse-2 {
+    top: 0;
+    left: 0;
+    background-color: #dda82a;
+    position: fixed;
+    width: 226px;
+    height: 226px;
+    border-radius: 113px;
+    filter: blur(317px);
+  }
+  
+  .div-wrapper .picture {
+    position: absolute;
+    width: 545px;
+    height: 449px;
+    top: 81px;
+    left: 518px;
+    background-image: url(Character1652-77j.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .div-wrapper .texte {
+    position: absolute;
+    width: 611px;
+    height: 281px;
+    top: 90px;
+    left: 57px;
+  }
+  
+  .div-wrapper .sign-in-to-recharge {
+    position: absolute;
+    width: 607px;
+    top: 0;
+    left: 0;
+    font-family: "Gilroy-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 58px;
+    letter-spacing: 0;
+    line-height: 77px;
+  }
+  
+  .div-wrapper .if-you-don-t-an {
+    position: absolute;
+    width: 290px;
+    top: 218px;
+    left: 2px;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .div-wrapper .text-wrapper {
+    font-weight: 500;
+    color: #ffffff;
+  }
+  
+  .div-wrapper .span {
+    font-weight: 500;
+    color: #000000;
+  }
+  
+  .div-wrapper .text-wrapper-2 {
+    font-family: "Gilroy-Bold", Helvetica;
+    font-weight: 700;
+    color: #4461f2;
+  }
+  
+  .div-wrapper .overlap-group {
+    position: absolute;
+    width: 401px;
+    height: 392px;
+    top: 448px;
+    left: 1321px;
+  }
+  
+  .div-wrapper .forms {
+    position: absolute;
+    width: 401px;
+    height: 339px;
+    top: 53px;
+    left: 0;
+  }
+  
+  .div-wrapper .bouton-sign-in {
+    position: absolute;
+    width: 402px;
+    height: 77px;
+    top: 89px;
+    left: 0;
+  }
+  
+  .div-wrapper .overlap-group-2 {
+    position: relative;
+    width: 400px;
+    height: 77px;
+  }
+  
+  .div-wrapper .rectangle {
+    background-color: #4461f2;
+    box-shadow: 0px 12px 21px 4px #4461f226;
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    top: 9px;
+    left: 0;
+    border-radius: 10px;
+  }
+  
+  .div-wrapper .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 165px;
+    font-family: "Gilroy-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    letter-spacing: 1.71px;
+    line-height: 77px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .forget-password-text {
+    position: absolute;
+    width: 153px;
+    height: 77px;
+    top: 0;
+    left: 250px;
+  }
+  
+  .div-wrapper .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #c7c7c7;
+    font-size: 14px;
+    letter-spacing: 1.4px;
+    line-height: 77px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .line {
+    position: absolute;
+    width: 402px;
+    height: 77px;
+    top: 181px;
+    left: 0;
+  }
+  
+  .div-wrapper .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 138px;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 1.26px;
+    line-height: 77px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .img {
+    position: absolute;
+    width: 120px;
+    height: 1px;
+    top: 37px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .div-wrapper .line-2 {
+    position: absolute;
+    width: 120px;
+    height: 1px;
+    top: 37px;
+    left: 280px;
+    object-fit: cover;
+  }
+  
+  .div-wrapper .facebook {
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    top: 279px;
+    left: 284px;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #dcdfdc;
+  }
+  
+  .div-wrapper .shape {
+    width: 28px;
+    top: 15px;
+    left: 43px;
+    position: absolute;
+    height: 28px;
+  }
+  
+  .div-wrapper .apple {
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    top: 279px;
+    left: 142px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 13px #00000021;
+  }
+  
+  .div-wrapper .shape-2 {
+    width: 23px;
+    top: 16px;
+    left: 47px;
+    position: absolute;
+    height: 28px;
+  }
+  
+  .div-wrapper .google {
+    position: absolute;
+    width: 117px;
+    height: 60px;
+    top: 279px;
+    left: 0;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #dcdfdc;
+  }
+  
+  .div-wrapper .wrapper {
+    position: absolute;
+    width: 27px;
+    height: 28px;
+    top: 15px;
+    left: 44px;
+  }
+  
+  .div-wrapper .password {
+    position: absolute;
+    width: 400px;
+    height: 77px;
+    top: 0;
+    left: 0;
+  }
+  
+  .div-wrapper .overlap-2 {
+    position: relative;
+    height: 60px;
+    top: 8px;
+    background-color: #eaf0f7;
+    border-radius: 10px;
+  }
+  
+  .div-wrapper .text-wrapper-6 {
+    position: absolute;
+    top: 17px;
+    left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #667085;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .x-icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 18px;
+    left: 352px;
+  }
+  
+  .div-wrapper .top-side {
+    position: absolute;
+    width: 1520px;
+    height: 43px;
+    top: 98px;
+    left: 201px;
+  }
+  
+  .div-wrapper .navbar {
+    position: absolute;
+    width: 504px;
+    height: 16px;
+    top: 11px;
+    left: 0;
+  }
+  
+  .div-wrapper .text-wrapper-7 {
+    left: 0;
+    position: absolute;
+    width: 54px;
+    top: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-8 {
+    left: 108px;
+    position: absolute;
+    width: 54px;
+    top: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-9 {
+    left: 216px;
+    position: absolute;
+    width: 54px;
+    top: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-10 {
+    left: 311px;
+    position: absolute;
+    width: 54px;
+    top: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-11 {
+    position: absolute;
+    width: 74px;
+    top: 0;
+    left: 420px;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .language {
+    position: absolute;
+    width: 81px;
+    height: 16px;
+    top: 12px;
+    left: 1192px;
+  }
+  
+  .div-wrapper .overlap-group-3 {
+    position: relative;
+    width: 79px;
+    height: 16px;
+  }
+  
+  .div-wrapper .icon {
+    position: absolute;
+    width: 10px;
+    height: 6px;
+    top: 6px;
+    left: 69px;
+  }
+  
+  .div-wrapper .text-wrapper-12 {
+    position: absolute;
+    width: 74px;
+    top: 0;
+    left: 0;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .register {
+    position: absolute;
+    width: 114px;
+    height: 42px;
+    top: 0;
+    left: 1408px;
+  }
+  
+  .div-wrapper .overlap-3 {
+    position: relative;
+    width: 112px;
+    height: 42px;
+    background-color: #ffffff;
+    border-radius: 21px;
+    box-shadow: 0px 4px 4px #0000000d;
+  }
+  
+  .div-wrapper .text-wrapper-13 {
+    position: absolute;
+    width: 74px;
+    top: 12px;
+    left: 21px;
+    font-family: "Gilroy-Bold", Helvetica;
+    font-weight: 700;
+    color: #4461f2;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .sign-in {
+    position: absolute;
+    width: 76px;
+    height: 31px;
+    top: 12px;
+    left: 1309px;
+  }
+  
+  .div-wrapper .line-3 {
+    position: absolute;
+    width: 26px;
+    height: 3px;
+    top: 28px;
+    left: 17px;
+  }
+  
+  .div-wrapper .text-wrapper-14 {
+    position: absolute;
+    width: 74px;
+    top: 0;
+    left: 0;
+    font-family: "Gilroy-Bold", Helvetica;
+    font-weight: 700;
+    color: #4461f2;
+    font-size: 17px;
+    letter-spacing: 1.02px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .enter-name {
+    position: absolute;
+    width: 400px;
+    height: 77px;
+    top: 368px;
+    left: 1321px;
+  }
+  
+  .div-wrapper .overlap-4 {
+    position: relative;
+    height: 77px;
+    top: -1px;
+  }
+  
+  .div-wrapper .rectangle-2 {
+    background-color: #eaf0f7;
+    position: absolute;
+    width: 400px;
+    height: 60px;
+    top: 9px;
+    left: 0;
+    border-radius: 10px;
+  }
+  
+  .div-wrapper .text-wrapper-15 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    font-family: "Gilroy-Medium", Helvetica;
+    font-weight: 500;
+    color: #4f555a;
+    font-size: 18px;
+    letter-spacing: 1.62px;
+    line-height: 77px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .x-wrapper {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 27px;
+    left: 353px;
+  }
+  
+  .div-wrapper .x {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    top: 3px;
+    left: 3px;
+    border-radius: 35px;
+    border: 1px solid;
+    border-color: #667085;
+  }
+  
+  .div-wrapper .stroke-wrapper {
+    position: relative;
+    width: 6px;
+    height: 6px;
+    top: 7px;
+    left: 7px;
+    background-image: url(./img/stroke-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .div-wrapper .stroke {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 0;
+    left: 0;
+  }
+
+.bubbles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+  
